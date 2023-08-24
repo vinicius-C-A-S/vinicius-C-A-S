@@ -1,7 +1,7 @@
 ##Oi! eu sou o Vinicius Costa
 - 👀 Estou interessado em front end e data science
 - 🏛️ Estou no quarto ano de Engenharia Elétrica na EESC-USP
-- 🌱 Estou estudando Javascript
+- 🌱 Estou estudando Javascript, Python, Ciência de Dados
 - 📫 Contate-me no email: vinicius.costs@gmail.com
   <div align="center">
   <a href="https://github.com/vinicius-C-A-S">
