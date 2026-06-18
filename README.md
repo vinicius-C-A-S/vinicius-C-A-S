@@ -1,7 +1,7 @@
 ##Oi! eu sou o Vinicius Costa
 - 👀 Estou interessado em  Data
-- 🏛️ Estou no sétimo ano de Engenharia Elétrica na EESC-USP
-- 🌱 Estou estudando Javascript, Python, Ciência de Dados
+- 🏛️ Estou no primeiro ano de Ciência de Dados
+- 🌱 Estou estudando Python, SQL e  Ciência de Dados
 - 📫 Contate-me no email: vinicius.costs@gmail.com
   <div align="center">
   <a href="https://github.com/vinicius-C-A-S">
